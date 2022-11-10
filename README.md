@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sengueny
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Angular JS
+- 🌱 I’m currently learning Angular 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...sengueny@gmail.com
 
